@@ -4,7 +4,7 @@ A website with the goal to compile the best resources for incoming and current P
 
 This is going to be very empty for the next couple weeks (posted 8th November 2019).
 
-![PSDN 2019](https://github.com/pcugpsdn/home/tree/master/assets/images/psdn2019.jpg)
+![PSDN 2019](https://raw.githubusercontent.com/pcugpsdn/home/master/assets/images/psdn2019.jpg)
 
 <hr>
 
